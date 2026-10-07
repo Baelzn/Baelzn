@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Baelzn">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=7C5CFF&center=true&vCenter=true&width=900&lines=Hola%2C+soy+Abimael+%22Bael%22+%F0%9F%91%8B;Desarrollador+de+Software+%7C+C%23+%C2%B7+.NET+%C2%B7+WPF;Apps+de+escritorio+%C2%B7+Herramientas+para+Windows;Disponible+para+trabajo+remoto" alt="Banner animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=7C5CFF&center=true&vCenter=true&width=900&lines=Hola%2C+soy+Bryan+%22Bael%22+%F0%9F%91%8B;Desarrollador+de+Software+%7C+C%23+%C2%B7+.NET+%C2%B7+WPF;Apps+de+escritorio+%C2%B7+Herramientas+para+Windows;Disponible+para+trabajo+remoto" alt="Banner animado" />
 </a>
 
 ![Visitas](https://komarev.com/ghpvc/?username=Baelzn&style=flat&color=7C5CFF&label=visitas+al+perfil)
@@ -63,5 +63,3 @@ Soy **Bryan**, pero en internet me conocen como **Bael**. Soy desarrollador de s
 <div align="center">
 
 *Hecho con ☕ desde Lima, Perú · @Baelzn*
-
-</div>
